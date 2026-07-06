@@ -1,9 +1,5 @@
 # 🐍 VaultofCode Python Programming Internship
 
-![Python](httpsimg.shields.iobadgePython-3.14-bluelogo=python&logoColor=white)
-![Status](httpsimg.shields.iobadgeInternship-In%20Progress-orange)
-![GitHub](httpsimg.shields.iobadgeGitHub-Portfolio-blacklogo=github)
-
 This repository contains all assignments and projects completed during my Python Programming Internship at VaultofCode.
 
 ---
