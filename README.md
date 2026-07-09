@@ -1,4 +1,4 @@
-# 🐍 VaultofCode Python Programming Internship
+# 🐍 VaultofCodes Python Programming Internship
 
 This repository contains all assignments and projects completed during my Python Programming Internship at VaultofCode.
 
